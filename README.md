@@ -102,4 +102,6 @@ The tool generates:
 
 ## Support
 
-If you found this tool helpful, consider supporting its development
+If you found this tool helpful, consider supporting its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nidhimkakadiya)
